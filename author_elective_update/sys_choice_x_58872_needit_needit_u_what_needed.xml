@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_what_needed</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-03-19 22:54:04</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>055d597adb6284902f68c597059619b7</instance_id>
+        <instance_name>dev98060</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_what_needed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_what_needed</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-03-19 22:54:04</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-429457270</payload_hash>
+        <record_name>Task.u_what_needed</record_name>
+        <reverted_from/>
+        <source>fd28ca972fe780102cd71e282799b6c4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 22:54:04</sys_created_on>
+        <sys_id>6858ce972fe780102cd71e282799b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f500f1f70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 22:54:04</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>e058ce97c4e7801025a6da7d8cc54ecc</update_guid>
+        <update_guid_history>e058ce97c4e7801025a6da7d8cc54ecc:-429457270,ec58ce97c9e78010fc67f637a50035c8:1264701252,ac58ce973ee78010e091579e1f8c2dc5:-1001554480,6c58ce9758e78010af4b3717c03530c2:1291032590,2c58ce97a4e780105dac1992c3e47ebf:1977964177,e858ce97a3e780102b099eb07d8c66bc:-1752887133,a858ce9782e780109fbda04bf32cecb9:103642638,6858ce97dbe780109ea5a74f62a3f4b6:2515242,4128ca97bce7801089c7c44ea73c0d1e:0,a2180a97abe7801012220b1f6a0b4889:-429457270,ae180a97d3e78010869b28cd90c37f85:1264701252,6e180a9723e78010adafedf1a9b11182:-1001554480,2e180a97bfe780103bcb746f063c207f:1291032590,ea180a970be7801048735b63e16bf57c:1977964177,aa180a9790e780100bfd31a835b71a79:-1752887133,5a180a97efe780101fe80c074e842a76:103642638,1a180a97e5e780103ddf01815db61273:2515242,15f24a53a7e780100b8864201c4b7c7b:-1460202391</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 22:54:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>9e5842d72fe780102cd71e282799b649</sys_id>
+        <sys_metadata>9e5842d72fe780102cd71e282799b649</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_what_needed">6858ce972fe780102cd71e282799b6cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 22:54:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
